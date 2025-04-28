@@ -36,28 +36,6 @@ This Python-based application generates personalized Spotify playlists based on 
    python spotify_playlist_generator.py
    ```
 
-## Usage
-1. **Run the Script**: Execute `spotify_playlist_generator.py` to authenticate with Spotify and generate a playlist.
-2. **Provide Context Input**: Modify the `context_input` dictionary in the script with desired values, e.g.:
-   ```python
-   context_input = {
-       "activity": "workout",
-       "weather": "sunny",
-       "age_group": "20-30",
-       "mood": "energetic"
-   }
-   ```
-3. **Output**: The script creates a Spotify playlist and prints its URL.
-
-## Example
-```python
-context_input = {
-    "activity": "study",
-    "weather": "rainy",
-    "age_group": "20-30",
-    "mood": "calm"
-}
-```
 Running the script generates a playlist URL: `https://open.spotify.com/playlist/<playlist_id>`.
 
 ## Technologies
@@ -76,5 +54,5 @@ Running the script generates a playlist URL: `https://open.spotify.com/playlist/
 MIT License. See `LICENSE` for details.
 
 ## Contact
-For questions or contributions, contact [Your Name] at [your.email@example.com].
-"""
+For questions or contributions, contact shehan vinod at shehanvinodwanni@gamail.com.
+
