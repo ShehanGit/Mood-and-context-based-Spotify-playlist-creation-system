@@ -17,8 +17,8 @@ This Python-based application generates personalized Spotify playlists based on 
 ## Setup Instructions
 1. **Clone the Repository**:
    ```bash
-   git clone <repository-url>
-   cd <repository-directory>
+   git clone https://github.com/ShehanGit/Mood-and-context-based-Spotify-playlist-creation-system.git
+   cd backend
    ```
 
 2. **Install Dependencies**:
