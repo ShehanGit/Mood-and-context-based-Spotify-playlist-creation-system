@@ -45,10 +45,6 @@ Running the script generates a playlist URL: `https://open.spotify.com/playlist/
 - **pandas**: Data preprocessing and handling.
 - **scikit-learn**: Categorical encoding with LabelEncoder.
 
-## Future Enhancements
-- Add a Flask web interface for user input.
-- Incorporate real-time weather data via an API (e.g., OpenWeatherMap).
-- Expand training data for more accurate predictions.
 
 ## License
 MIT License. See `LICENSE` for details.
